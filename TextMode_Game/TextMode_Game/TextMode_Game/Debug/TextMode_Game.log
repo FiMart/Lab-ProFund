@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\Programming Fundamental\Lab\TextMode_Game\TextMode_Game\TextMode_Game\Source.cpp(22,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Programming Fundamental\Lab\TextMode_Game\TextMode_Game\TextMode_Game\Source.cpp(22,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Programming Fundamental\Lab\TextMode_Game\TextMode_Game\TextMode_Game\Source.cpp(95,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Programming Fundamental\Lab\TextMode_Game\TextMode_Game\TextMode_Game\Source.cpp(95,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Programming Fundamental\Lab\TextMode_Game\TextMode_Game\TextMode_Game\Source.cpp(115,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programming Fundamental\Lab\TextMode_Game\TextMode_Game\TextMode_Game\Source.cpp(110,14): warning C4101: 'i': unreferenced local variable
+D:\Programming Fundamental\Lab\TextMode_Game\TextMode_Game\TextMode_Game\Source.cpp(110,10): warning C4101: 'by': unreferenced local variable
+D:\Programming Fundamental\Lab\TextMode_Game\TextMode_Game\TextMode_Game\Source.cpp(110,6): warning C4101: 'bx': unreferenced local variable
+  TextMode_Game.vcxproj -> D:\Programming Fundamental\Lab\TextMode_Game\TextMode_Game\Debug\TextMode_Game.exe
