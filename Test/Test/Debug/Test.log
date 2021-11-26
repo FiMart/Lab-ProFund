@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Programming Fundamental\Lab\Test\Test\Source.cpp(125,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programming Fundamental\Lab\Test\Test\Source.cpp(142,48): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+  Test.vcxproj -> D:\Programming Fundamental\Lab\Test\Debug\Test.exe
